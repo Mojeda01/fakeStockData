@@ -1,4 +1,4 @@
-Stock Market Data Simulation Program
+#Stock Market Data Simulation Program
 ####
 
 ![Example Image](https://github.com/Mojeda01/fakeStockData/blob/main/Example%20Image/example.png)
