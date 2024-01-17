@@ -1,6 +1,9 @@
 # fake stock data - Stock Market Data Simulation Program
 ####
 
+![Example Image](https://github.com/Mojeda01/fakeStockData/blob/main/Example%20Image/example.png)
+
+
 Purpose:
 - This program is designed to simulate stock market data for a specified period. It generates synthetic daily stock prices for a given set of companies over a period of five years.
 
